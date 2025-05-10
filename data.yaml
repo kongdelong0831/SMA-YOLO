@@ -1,0 +1,13 @@
+# dataset path
+path: ./
+
+# train, val, test splits
+train: ./images/train
+val: ./images/val
+test: ./images/test
+
+# number of classes
+nc: 2
+
+# class names
+names: ['stent', 'bvs']
